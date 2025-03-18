@@ -2,10 +2,14 @@
   "name": "github-user-activity",
   "version": "1.0.0",
   "description": "For roadmap.sh",
-  "main": "index.js",
+  "main": "./index.js",
   "scripts": {
     "test": "help"
   },
   "author": "Atomixal",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "type" : "module"
 }
