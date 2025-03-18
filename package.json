@@ -1,0 +1,11 @@
+{
+  "name": "github-user-activity",
+  "version": "1.0.0",
+  "description": "For roadmap.sh",
+  "main": "index.js",
+  "scripts": {
+    "test": "help"
+  },
+  "author": "Atomixal",
+  "license": "ISC"
+}
